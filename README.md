@@ -1,6 +1,6 @@
 ## About me
 
-Final-year Electrical and Electronics Engineering student at Turkish-German University, specializing in FPGA design, embedded systems, and digital signal processing. My academic and project work is centered on applying C, VHDL, and Python to solve complex problems at the hardware-software interface.   
+Final-year Electrical and Electronics Engineering student at Turkish-German University, driven by a curiosity for solving problems across a range of technologies.    
 
 My Bachelor's Thesis, 'Datenübertragung über Stromleitungen', co-authored with Sude Nazlı Öztürk and supervised by Prof. Dr. Mukden Uğur, focused on the challenges of data transmission over low-voltage electrical grids.
 
