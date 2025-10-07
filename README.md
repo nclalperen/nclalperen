@@ -5,8 +5,6 @@ Final-year Electrical and Electronics Engineering student at Turkish-German Univ
 My Bachelor's Thesis, 'Datenübertragung über Stromleitungen', co-authored with Sude Nazlı Öztürk and supervised by Prof. Dr. Mukden Uğur, focused on the challenges of data transmission over low-voltage electrical grids.
 
 ### Core Competencies
-A summary of my technical skills, developed through rigorous academic coursework and hands-on projects.   
-
 <p align="left">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 <img src="https://img.shields.io/badge/VHDL-0078D7?style=for-the-badge" alt="VHDL"/>
