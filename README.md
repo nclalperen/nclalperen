@@ -19,7 +19,7 @@ My Bachelor's Thesis, 'Datenübertragung über Stromleitungen', co-authored with
 </p>
 
 ### Education
-B.Eng., Electrical & Electronics Engineering (German Medium) | Turkish-German University, Istanbul | Expected Graduation: 2025    
+B.Eng., Electrical & Electronics Engineering (German Medium) | Turkish-German University, Istanbul | Expected Graduation: 2026    
 
 ### Professional Links
 <p align="left">
