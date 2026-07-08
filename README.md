@@ -7,10 +7,8 @@ Feel free to check my open source projects and my bachelors thesis below.
 ### Core Competencies
 <p align="left">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/VHDL-0078D7?style=for-the-badge" alt="VHDL"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-
+<img src="https://img.shields.io/badge/VHDL-0078D7?style=for-the-badge" alt="VHDL"/>
 
 
 <img src="https://img.shields.io/badge/FPGA-DA1B2B?style=for-the-badge" alt="FPGA"/>
